@@ -9,5 +9,5 @@ cd express-route-handler-examples
 npm install
 node index.js
 
-open browser to [http://localhost:3000](http://localhost:3000)
 ```
+open browser to [http://localhost:3000](http://localhost:3000)
